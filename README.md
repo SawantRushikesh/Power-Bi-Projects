@@ -1,4 +1,3 @@
-Diwali Sales Dashboard
+Power BI Dashboard 
 
-This project involves analyzing Diwali sales data and creating an interactive dashboard using Power BI.
-The dashboard showcases key insights such as top-selling products, regional performance, sales growth trends, and customer segmentation, providing actionable insights for strategic planning.
+This repository features a collection of interactive and insightful Power BI dashboards. Each dashboard is designed to analyze and visualize data effectively, covering various domains such as business performance, sales analytics, customer insights, and more. Explore to see how data transforms into actionable insights!
